@@ -1,4 +1,4 @@
-## Eai! Eu sou o Andreas Anthony
+## Hello! I'm Andreas Anthony
 
 <div>
 <a href="https://github.com/oiDreas">
